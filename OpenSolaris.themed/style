@@ -1,0 +1,51 @@
+{
+  TitleJustify = center;
+  WindowTitleFont = "-*-helvetica-bold-r-normal-*-14-*-*-*-*-*-*-*";
+  MenuTitleFont = "-*-helvetica-bold-r-normal-*-14-*-*-*-*-*-*-*";
+  MenuTextFont = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*";
+  IconTitleFont = "-*-helvetica-medium-r-normal-*-10-*-*-*-*-*-*-*";
+  ClipTitleFont = "-*-helvetica-bold-r-normal-*-12-*-*-*-*-*-*-*";
+  DisplayFont = "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*";
+  HighlightColor = "#8bc6e4";
+  HighlightTextColor = black;
+  ClipTitleColor = "rgb:00/b7/f7";
+  CClipTitleColor = "rgb:00/61/81";
+  FTitleColor = "rgb:09/24/53";
+  PTitleColor = white;
+  UTitleColor = "rgb:ce/dd/7e";
+  FTitleBack = (
+    mhgradient,
+    "rgb:11/4c/08",
+    "rgb:4e/84/30",
+    "rgb:ce/dd/7e"
+  );
+  PTitleBack = (mhgradient, "rgb:06/18/58", "rgb:02/3f/6f", "rgb:13/45/82");
+  UTitleBack = (
+    mhgradient,
+    "rgb:09/24/53",
+    "rgb:13/40/79",
+    "rgb:34/ad/d9"
+  );
+  MenuTitleColor = white;
+  MenuTextColor = black;
+  MenuDisabledColor = gray;
+  MenuTitleBack = (
+    mvgradient,
+    "rgb:1c/49/82",
+    "rgb:21/72/aa",
+    "rgb:2a/8b/c0"
+  );
+  MenuTextBack = (
+    mvgradient,
+    "rgb:2e/9c/cd",
+    "rgb:3a/b8/e6",
+    "rgb:29/84/bb"
+  );
+  IconBack = (
+    mdgradient,
+    "rgb:2f/65/a1",
+    "rgb:02/01/43",
+    "rgb:18/2c/67"
+  );
+  WorkspaceBack = (tpixmap, "stream.jpg", black);
+}

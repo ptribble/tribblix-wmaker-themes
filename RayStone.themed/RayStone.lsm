@@ -1,0 +1,30 @@
+Theme name:		RayStone
+Version:		1.0
+Date:			28 november 1999
+Author:			A.A.M. van der Wouden  <t.vd.wouden@hccnet.nl>
+Description:	TitleBars and menus all have stone textures. Background picture (1152x864) is
+				a raytraced scene of a hallway with colums and lot of stone textures. All 
+				textures used are created by Povray3, see stone1.pov and stone2.pov
+Copyright:		None, all pictures are created by me including the background, took 5 hours on
+				a i586@233 to render with antialiasing,  (i still have to place the scene file 
+				on http://home.hccnet.nl/t.vd.wouden). Feel free to use it (drop me a line
+				if you like it).
+Notes:			This is my first WindowMaker theme i made so if it contains errors please let me
+				know. 
+				
+				an aditional file 'whiteblock.jpg' have been place in the theme directory
+				which can be used as 'more stone' background in Rxvt by adding a line to
+				your ~/.Xdefaults of:
+				Rxvt*foreground:        Black
+				Rxvt.backgroundPixmap:  /home/nemesis/GNUstep/Library/WindowMaker/Themes/RayStone.themed/whiteblock.xpm
+
+				My thanks go to the people who made Linux, WindowMaker and povray without
+				them this theme never been created.
+
+hope you enjoy it,
+
+Ton.
+
+
+
+#end of file 

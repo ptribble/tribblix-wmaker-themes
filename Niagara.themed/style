@@ -1,0 +1,30 @@
+{
+  LargeDisplayFont = "Trebuchet MS,Luxi Sans:pixelsize=24";
+  HighlightColor = white;
+  FTitleColor = white;
+  MenuTextFont = "Trebuchet MS,Luxi Sans:pixelsize=12";
+  WorkspaceBack = (spixmap, niagara_us.jpg, "#305653");
+  UTitleBack = (mhgradient, "#a2a0a5", "#b39488", "#a98482");
+  IconTitleFont = "Arial,Luxi Sans:pixelsize=9";
+  PTitleBack = (mhgradient, "#68686a", "rgb:51/50/55", "rgb:80/80/80");
+  WindowTitleFont = "Trebuchet MS,Luxi Sans:bold:pixelsize=12";
+  UTitleColor = black;
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  MenuDisabledColor = gray40;
+  MenuStyle = normal;
+  MenuTextBack = (mhgradient, "#a2a0a5", "#88acaf", "#6e9a93");
+  PTitleColor = white;
+  IconBack = (spixmap, icon.png, white);
+  MenuTitleBack = (mhgradient, "#384246", "#2a82be", "#4a5b65");
+  FTitleBack = (mhgradient, "#384246", "#2a82be", "#4a5b65");
+  TitleJustify = left;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (solid, "#a2a0a5");
+  MenuTextColor = black;
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = black;
+  IconTitleColor = white;
+  MenuTitleFont = "Trebuchet MS,Luxi Sans:bold:pixelsize=12";
+  MenuTitleColor = white;
+}
